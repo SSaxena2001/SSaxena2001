@@ -33,8 +33,10 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SSaxena2001&repo=suvigya-math-garden&show_owner=true)](https://github.com/SSaxena2001/suvigya-math-garden)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SSaxena2001&repo=Bmi-Calculator-Flutter&show_owner=true)](https://github.com/SSaxena2001/Bmi-Calculator-Flutter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SSaxena2001&repo=Web3.0-Crypto-App&show_owner=true)](https://github.com/SSaxena2001/Web3.0-Crypto-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SSaxena2001&repo=Todo-List-App-using-ChakraUI&show_owner=true)](https://github.com/SSaxena2001/Todo-List-App-using-ChakraUI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SSaxena2001&repo=CryptoVerse-React-App&show_owner=true)](https://github.com/SSaxena2001/CryptoVerse-React-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SSaxena2001&repo=Speech-Recognition-for-Robots-in-Industries&show_owner=true)](https://github.com/SSaxena2001/Speech-Recognition-for-Robots-in-Industries)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
