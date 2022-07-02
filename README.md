@@ -1,15 +1,14 @@
 
-<h1 align="center">Hi there 👋 I'm [Suvigya Saxena](https://www.linkedin.com/in/suvigya-saxena-6667811a4/)</h1>
+<h1 align="center">Hello there 👋 I'm Suvigya Saxena</h1>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=SSaxena2001" alt="suvigya saxena" /> -->
 
-<div>
- <p>
-I am a self-taught full stack developer able to build a web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
-</div>
+- Self-taught Full Stack Developer able to build a web presence from the ground up - from concept, navigation, layout and programming. 
+- Skilled at writing well-designed, testable and efficient code using current best practices in web development. 
+- Fast learner, hard worker and team player who is proficient in an array of scripting languages.
+- Star Wars Fan as you may have noticed already 💫💫
+
 
 ### Languages & Tools 🛠️
 
@@ -27,10 +26,16 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
 
 ### Github Stats
-
-[![Suvigya Saxena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSaxena2001&show_icons=true&count_private=true)](https://github.com/SSaxena2001)
+<p>
+<a align= "center" href="https://github.com/SSaxena2001">
+  <img alt= "stats card" height="300px" width="350" src="https://github-readme-stats.vercel.app/api?username=SSaxena2001&count_private=true&show_icons=true&theme=light&hide_rank=false" />
+<!--   <img align="right" height="270px" width="350" src="https://user-images.githubusercontent.com/72685035/147284506-c53eae58-0243-4026-a850-f091f0833326.gif" /> -->
+<!--   <img align="center" height="300px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=SSaxena2001&theme=aura_dark" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSaxena2001&show_icons=true&locale=en&layout=compact&theme=light" alt="ssaxena2001" /></a>
+</p>
+<!-- [![Suvigya Saxena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSaxena2001&show_icons=true&count_private=true)](https://github.com/SSaxena2001)
 [![Suvigya Saxena's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SSaxena2001&theme=omni)](https://github.com/SSaxena2001)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SSaxena2001&show_icons=true&locale=en&layout=compact&theme=aura_dark)](https://github.com/SSaxena2001)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SSaxena2001&show_icons=true&locale=en&layout=compact&theme=aura_dark)](https://github.com/SSaxena2001) -->
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SSaxena2001&repo=Web3.0-Crypto-App&show_owner=true)](https://github.com/SSaxena2001/Web3.0-Crypto-App)
